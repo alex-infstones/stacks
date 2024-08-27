@@ -1,0 +1,184 @@
+[Begin]: Creating the dev and stage groups and setting the correct permission
+[End]: Creation of the dev and stage groups and setting the correct permission
+[Begin]: Creating the new ops user and setting the sudo permission
+[End]: Creating the new ops user and setting the sudo permission
+[Begin]: Creating the access_grant_bot user and setting the correct permission
+[End]: Created the new access_grant_bot user and setup the correct permission
+[Begin]: Adding ACL permissions to various folders for access by dev and bus-esa groups
+[End]: Adding ACL permissions to various folders for access by dev and bus-esa groups
+[Begin]: Setting up the aws config
+[End]: Setup aws config
+[Begin]: Setting up the aws credentials
+[End]: Setup the aws credentials
+[Begin]: Creating infd .env file ...
+[End]: Created infd .env file ...
+[Begin]: Copying infd from AWS S3 ...
+Completed 256.0 KiB/16.7 MiB (1.2 MiB/s) with 1 file(s) remainingCompleted 512.0 KiB/16.7 MiB (2.3 MiB/s) with 1 file(s) remainingCompleted 712.0 KiB/16.7 MiB (3.1 MiB/s) with 1 file(s) remainingCompleted 968.0 KiB/16.7 MiB (3.0 MiB/s) with 1 file(s) remainingCompleted 1.2 MiB/16.7 MiB (3.7 MiB/s) with 1 file(s) remaining  Completed 1.4 MiB/16.7 MiB (4.3 MiB/s) with 1 file(s) remaining  Completed 1.7 MiB/16.7 MiB (5.0 MiB/s) with 1 file(s) remaining  Completed 1.9 MiB/16.7 MiB (5.6 MiB/s) with 1 file(s) remaining  Completed 2.2 MiB/16.7 MiB (6.3 MiB/s) with 1 file(s) remaining  Completed 2.4 MiB/16.7 MiB (7.0 MiB/s) with 1 file(s) remaining  Completed 2.7 MiB/16.7 MiB (7.7 MiB/s) with 1 file(s) remaining  Completed 2.9 MiB/16.7 MiB (7.7 MiB/s) with 1 file(s) remaining  Completed 3.2 MiB/16.7 MiB (8.4 MiB/s) with 1 file(s) remaining  Completed 3.4 MiB/16.7 MiB (9.0 MiB/s) with 1 file(s) remaining  Completed 3.7 MiB/16.7 MiB (9.6 MiB/s) with 1 file(s) remaining  Completed 3.9 MiB/16.7 MiB (10.3 MiB/s) with 1 file(s) remaining Completed 4.2 MiB/16.7 MiB (10.9 MiB/s) with 1 file(s) remaining Completed 4.4 MiB/16.7 MiB (11.6 MiB/s) with 1 file(s) remaining Completed 4.7 MiB/16.7 MiB (12.2 MiB/s) with 1 file(s) remaining Completed 4.9 MiB/16.7 MiB (12.8 MiB/s) with 1 file(s) remaining Completed 5.2 MiB/16.7 MiB (13.4 MiB/s) with 1 file(s) remaining Completed 5.4 MiB/16.7 MiB (14.1 MiB/s) with 1 file(s) remaining Completed 5.7 MiB/16.7 MiB (14.7 MiB/s) with 1 file(s) remaining Completed 5.9 MiB/16.7 MiB (15.3 MiB/s) with 1 file(s) remaining Completed 6.2 MiB/16.7 MiB (15.6 MiB/s) with 1 file(s) remaining Completed 6.4 MiB/16.7 MiB (16.1 MiB/s) with 1 file(s) remaining Completed 6.7 MiB/16.7 MiB (16.8 MiB/s) with 1 file(s) remaining Completed 6.9 MiB/16.7 MiB (17.4 MiB/s) with 1 file(s) remaining Completed 7.2 MiB/16.7 MiB (17.5 MiB/s) with 1 file(s) remaining Completed 7.4 MiB/16.7 MiB (18.0 MiB/s) with 1 file(s) remaining Completed 7.7 MiB/16.7 MiB (18.5 MiB/s) with 1 file(s) remaining Completed 7.9 MiB/16.7 MiB (19.1 MiB/s) with 1 file(s) remaining Completed 8.2 MiB/16.7 MiB (19.2 MiB/s) with 1 file(s) remaining Completed 8.4 MiB/16.7 MiB (19.7 MiB/s) with 1 file(s) remaining Completed 8.7 MiB/16.7 MiB (20.1 MiB/s) with 1 file(s) remaining Completed 8.9 MiB/16.7 MiB (20.4 MiB/s) with 1 file(s) remaining Completed 9.2 MiB/16.7 MiB (20.8 MiB/s) with 1 file(s) remaining Completed 9.4 MiB/16.7 MiB (21.3 MiB/s) with 1 file(s) remaining Completed 9.7 MiB/16.7 MiB (21.8 MiB/s) with 1 file(s) remaining Completed 9.9 MiB/16.7 MiB (21.9 MiB/s) with 1 file(s) remaining Completed 10.2 MiB/16.7 MiB (22.4 MiB/s) with 1 file(s) remainingCompleted 10.4 MiB/16.7 MiB (22.8 MiB/s) with 1 file(s) remainingCompleted 10.7 MiB/16.7 MiB (23.1 MiB/s) with 1 file(s) remainingCompleted 10.9 MiB/16.7 MiB (23.5 MiB/s) with 1 file(s) remainingCompleted 11.2 MiB/16.7 MiB (23.9 MiB/s) with 1 file(s) remainingCompleted 11.4 MiB/16.7 MiB (24.3 MiB/s) with 1 file(s) remainingCompleted 11.7 MiB/16.7 MiB (24.6 MiB/s) with 1 file(s) remainingCompleted 11.9 MiB/16.7 MiB (24.9 MiB/s) with 1 file(s) remainingCompleted 12.2 MiB/16.7 MiB (25.4 MiB/s) with 1 file(s) remainingCompleted 12.4 MiB/16.7 MiB (25.8 MiB/s) with 1 file(s) remainingCompleted 12.7 MiB/16.7 MiB (26.0 MiB/s) with 1 file(s) remainingCompleted 12.9 MiB/16.7 MiB (26.3 MiB/s) with 1 file(s) remainingCompleted 13.2 MiB/16.7 MiB (26.7 MiB/s) with 1 file(s) remainingCompleted 13.4 MiB/16.7 MiB (27.1 MiB/s) with 1 file(s) remainingCompleted 13.7 MiB/16.7 MiB (27.4 MiB/s) with 1 file(s) remainingCompleted 13.9 MiB/16.7 MiB (27.8 MiB/s) with 1 file(s) remainingCompleted 14.2 MiB/16.7 MiB (28.2 MiB/s) with 1 file(s) remainingCompleted 14.4 MiB/16.7 MiB (28.6 MiB/s) with 1 file(s) remainingCompleted 14.7 MiB/16.7 MiB (29.1 MiB/s) with 1 file(s) remainingCompleted 14.9 MiB/16.7 MiB (29.5 MiB/s) with 1 file(s) remainingCompleted 15.2 MiB/16.7 MiB (29.9 MiB/s) with 1 file(s) remainingCompleted 15.4 MiB/16.7 MiB (30.1 MiB/s) with 1 file(s) remainingCompleted 15.7 MiB/16.7 MiB (30.5 MiB/s) with 1 file(s) remainingCompleted 15.9 MiB/16.7 MiB (31.0 MiB/s) with 1 file(s) remainingCompleted 16.2 MiB/16.7 MiB (31.4 MiB/s) with 1 file(s) remainingCompleted 16.4 MiB/16.7 MiB (31.4 MiB/s) with 1 file(s) remainingCompleted 16.7 MiB/16.7 MiB (31.8 MiB/s) with 1 file(s) remainingdownload: s3://infstones-node/Infd/release-v4.8.1/build/infd to usr/local/bin/infd
+[End]: Copied infd from AWS S3 ...
+[Begin]: Provisioning infd ...
+[Begin] Config package source list...
+[END]: Config package source list...
+Hit:1 https://download.docker.com/linux/ubuntu focal InRelease
+Hit:2 http://security.ubuntu.com/ubuntu focal-security InRelease
+Ign:3 https://repo.infstones.net/ubuntu ./ InRelease
+Get:4 https://repo.infstones.net/ubuntu ./ Release [38.2 kB]
+Ign:5 https://repo.infstones.net/ubuntu ./ Release.gpg
+Ign:6 https://repo.infstones.net/ubuntu ./ Packages
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Ign:6 https://repo.infstones.net/ubuntu ./ Packages
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Ign:6 https://repo.infstones.net/ubuntu ./ Packages
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Get:6 https://repo.infstones.net/ubuntu ./ Packages [8461 B]
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Ign:7 https://repo.infstones.net/ubuntu ./ Translation-en
+Get:8 http://iad-ad-2.clouds.archive.ubuntu.com/ubuntu focal InRelease [265 kB]
+Get:9 http://iad-ad-2.clouds.archive.ubuntu.com/ubuntu focal-updates InRelease [128 kB]
+Get:10 http://iad-ad-2.clouds.archive.ubuntu.com/ubuntu focal-backports InRelease [128 kB]
+Hit:11 http://ppa.launchpad.net/longsleep/golang-backports/ubuntu focal InRelease
+Fetched 567 kB in 1s (497 kB/s)
+Reading package lists...
+[BEGIN]: Initializing disk...
+[BEGIN]: Initializing block volume on the OCI
+
+Welcome to fdisk (util-linux 2.34).
+Changes will remain in memory only, until you decide to write them.
+Be careful before using the write command.
+
+Device does not contain a recognized partition table.
+Created a new DOS disklabel with disk identifier 0x2ea4ad78.
+
+Command (m for help): Partition type
+   p   primary (0 primary, 0 extended, 4 free)
+   e   extended (container for logical partitions)
+Select (default p): Partition number (1-4, default 1): First sector (2048-648019967, default 2048): Last sector, +/-sectors or +/-size{K,M,G,T,P} (2048-648019967, default 648019967): 
+Created a new partition 1 of type 'Linux' and of size 309 GiB.
+
+Command (m for help): The partition table has been altered.
+Calling ioctl() to re-read partition table.
+Syncing disks.
+
+meta-data=/dev/sdb               isize=512    agcount=4, agsize=20250624 blks
+         =                       sectsz=4096  attr=2, projid32bit=1
+         =                       crc=1        finobt=1, sparse=1, rmapbt=0
+         =                       reflink=1
+data     =                       bsize=4096   blocks=81002496, imaxpct=25
+         =                       sunit=0      swidth=0 blks
+naming   =version 2              bsize=4096   ascii-ci=0, ftype=1
+log      =internal log           bsize=4096   blocks=39552, version=2
+         =                       sectsz=4096  sunit=1 blks, lazy-count=1
+realtime =none                   extsz=4096   blocks=0, rtextents=0
+UUID=2901d0a5-be48-41cb-8573-2163d8598873 /data xfs defaults 0 2
+[END]: Initialized block volume on the OCI
+[BEGIN]: Setting instance host name...
+[END]: Set instance host name
+[BEGIN]: Installing Node Exporter...
+[INFO]: Creating Node Exporter User
+[INFO]: Installing Node Exporter
+node_exporter-1.6.1.linux-amd64/
+node_exporter-1.6.1.linux-amd64/NOTICE
+node_exporter-1.6.1.linux-amd64/node_exporter
+node_exporter-1.6.1.linux-amd64/LICENSE
+[INFO]: Setting up node exporter service
+[INFO] Starting node exporter service
+Created symlink /etc/systemd/system/multi-user.target.wants/node_exporter.service → /etc/systemd/system/node_exporter.service.
+[END]: Installed of Node Exporter
+[1;32m2024-08-22_20:27:20 [Begin]: Installing prometheus...[0m
+2024-08-22 20:27:21 URL:https://objects.githubusercontent.com/github-production-release-asset-2e65be/6838921/58fa9cb9-9b8c-4746-b2ca-8ffd93221ec3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20240822%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240822T202720Z&X-Amz-Expires=300&X-Amz-Signature=c07dabd3036d7d415fe91a3ccf8fb67cc28c55d7c93424d2096dad7eace6842d&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=6838921&response-content-disposition=attachment%3B%20filename%3Dprometheus-2.46.0.linux-amd64.tar.gz&response-content-type=application%2Foctet-stream [94876162/94876162] -> "/tmp/prometheus-2.46.0.linux-amd64.tar.gz" [1]
+prometheus-2.46.0.linux-amd64/
+prometheus-2.46.0.linux-amd64/console_libraries/
+prometheus-2.46.0.linux-amd64/console_libraries/prom.lib
+prometheus-2.46.0.linux-amd64/console_libraries/menu.lib
+prometheus-2.46.0.linux-amd64/NOTICE
+prometheus-2.46.0.linux-amd64/promtool
+prometheus-2.46.0.linux-amd64/prometheus.yml
+prometheus-2.46.0.linux-amd64/LICENSE
+prometheus-2.46.0.linux-amd64/prometheus
+prometheus-2.46.0.linux-amd64/consoles/
+prometheus-2.46.0.linux-amd64/consoles/node-disk.html
+prometheus-2.46.0.linux-amd64/consoles/node-cpu.html
+prometheus-2.46.0.linux-amd64/consoles/prometheus.html
+prometheus-2.46.0.linux-amd64/consoles/prometheus-overview.html
+prometheus-2.46.0.linux-amd64/consoles/node.html
+prometheus-2.46.0.linux-amd64/consoles/index.html.example
+prometheus-2.46.0.linux-amd64/consoles/node-overview.html
+[1;32m2024-08-22_20:27:22 [End]: Installed prometheus...[0m
+[BEGIN]: Starting Prometheus
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following additional packages will be installed:
+  libapr1 libaprutil1
+The following NEW packages will be installed:
+  apache2-utils libapr1 libaprutil1
+0 upgraded, 3 newly installed, 0 to remove and 263 not upgraded.
+Need to get 261 kB of archives.
+After this operation, 972 kB of additional disk space will be used.
+Get:1 http://iad-ad-2.clouds.archive.ubuntu.com/ubuntu focal/main amd64 libapr1 amd64 1.6.5-1ubuntu1 [91.4 kB]
+Get:2 http://iad-ad-2.clouds.archive.ubuntu.com/ubuntu focal-updates/main amd64 libaprutil1 amd64 1.6.1-4ubuntu2.2 [85.1 kB]
+Get:3 http://iad-ad-2.clouds.archive.ubuntu.com/ubuntu focal-updates/main amd64 apache2-utils amd64 2.4.41-4ubuntu3.21 [84.7 kB]
+Fetched 261 kB in 0s (2319 kB/s)
+Selecting previously unselected package libapr1:amd64.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 110344 files and directories currently installed.)
+Preparing to unpack .../libapr1_1.6.5-1ubuntu1_amd64.deb ...
+Unpacking libapr1:amd64 (1.6.5-1ubuntu1) ...
+Selecting previously unselected package libaprutil1:amd64.
+Preparing to unpack .../libaprutil1_1.6.1-4ubuntu2.2_amd64.deb ...
+Unpacking libaprutil1:amd64 (1.6.1-4ubuntu2.2) ...
+Selecting previously unselected package apache2-utils.
+Preparing to unpack .../apache2-utils_2.4.41-4ubuntu3.21_amd64.deb ...
+Unpacking apache2-utils (2.4.41-4ubuntu3.21) ...
+Setting up libapr1:amd64 (1.6.5-1ubuntu1) ...
+Setting up libaprutil1:amd64 (1.6.1-4ubuntu2.2) ...
+Setting up apache2-utils (2.4.41-4ubuntu3.21) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for libc-bin (2.31-0ubuntu9.2) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/prometheus.service → /etc/systemd/system/prometheus.service.
+[End]: Started Prometheus
+[BEGIN]: Downloading protocol config...
+download: s3://infstones-node/Protocol/release-v4.8.1/build/infstones/testnet/fullnode/protocol_runner to opt/protocol/protocol_runner
+download: s3://infstones-node/Protocol/release-v4.8.1/integration/infstones/testnet/fullnode/runner/protocol-core-1.service to opt/protocol/infstones/protocol-core-1.service
+[END]: Downloaded protocol config
+[BEGIN]: Downloading protocol binary...
+[INFO] Waiting for lock to release at s3://infstones-protocol/infstones/testnet/fullnode/binary/core-binary/infstones/current_write.lock if exists.
+[INFO] Waited for lock to release at s3://infstones-protocol/infstones/testnet/fullnode/binary/core-binary/infstones/current_write.lock
+download: s3://infstones-protocol/infstones/testnet/fullnode/binary/core-binary/infstones/current/dummyFile to tmp/tmp.tsV2WpzsJ8/dummyFile
+Completed 0 Bytes/21 Bytes (0 Bytes/s) with 2 file(s) remainingdownload: s3://infstones-protocol/infstones/testnet/fullnode/binary/core-binary/infstones/current/dummyFile2 to tmp/tmp.tsV2WpzsJ8/dummyFile2
+Completed 0 Bytes/21 Bytes (0 Bytes/s) with 1 file(s) remainingCompleted 21 Bytes/21 Bytes (162 Bytes/s) with 1 file(s) remainingdownload: s3://infstones-protocol/infstones/testnet/fullnode/binary/core-binary/infstones/current/version.txt to tmp/tmp.tsV2WpzsJ8/version.txt
+[INFO] Moved downloaded infstones-current to final directory.
+[INFO] Downloaded current of infstones from s3://infstones-protocol/infstones/testnet/fullnode/binary/core-binary/infstones/current/ to local directory.
+[END]: Downloaded protocol binary
+[Begin]: Installing protocol dependencies...
+[End]: Installed protocol dependencies.
+[BEGIN]: Downloading protocol backup data...
+Completed 138 Bytes/138 Bytes (2.4 KiB/s) with 1 file(s) remainingdownload: s3://infstones-protocol/infstones/testnet/fullnode/data/backup_metadata.json to tmp/backup_metadata.json
+Completed 8.3 KiB/8.3 KiB (95.9 KiB/s) with 1 file(s) remainingdownload: s3://infstones-protocol/infstones/mainnet/fullnode/read_lock to tmp/read_lock
+Completed 8.7 KiB/8.7 KiB (132.7 KiB/s) with 1 file(s) remainingupload: tmp/read_lock to s3://infstones-protocol/infstones/mainnet/fullnode/read_lock
+[Begin]: Downloading protocol data from OCI s3://infstones-protocol/infstones/mainnet/fullnode/data...
+cp s3://infstones-protocol/infstones/mainnet/fullnode/data/backup_metadata.json /data/backup_metadata.json
+cp s3://infstones-protocol/infstones/mainnet/fullnode/data/data-1/backup_metadata.json /data/data-1/backup_metadata.json
+cp s3://infstones-protocol/infstones/mainnet/fullnode/data/data-2/backup_metadata.json /data/data-2/backup_metadata.json
+cp s3://infstones-protocol/infstones/mainnet/fullnode/data/read_lock /data/read_lock
+Completed 8.7 KiB/8.7 KiB (227.8 KiB/s) with 1 file(s) remainingdownload: s3://infstones-protocol/infstones/mainnet/fullnode/read_lock to tmp/read_lock
+Completed 8.3 KiB/8.3 KiB (169.9 KiB/s) with 1 file(s) remainingupload: tmp/read_lock to s3://infstones-protocol/infstones/mainnet/fullnode/read_lock
+[END]: Downloaded protocol backup data
+[BEGIN]: Creating softlink.
+jq: error (at <stdin>:1): null (null) has no keys
+[END]: Created softlink.
+[Info]: Changing the ownership of authorized_keys to root and restrict it to read-only access ...
+[Begin]: Launching infstones protocol...
+[Begin]: Launching node...  
+Created symlink /etc/systemd/system/multi-user.target.wants/protocol-core-1.service → /etc/systemd/system/protocol-core-1.service.
+[End]: Launched node.
+[End]: Launched protocol infstones.
+Created symlink /etc/systemd/system/multi-user.target.wants/clear_log.service → /etc/systemd/system/clear_log.service.
+Created symlink /etc/systemd/system/timers.target.wants/clear_log.timer → /etc/systemd/system/clear_log.timer.
+[INFO] enable clear_log timer at Thu Aug 22 20:27:36 UTC 2024
+*** 😉 Node Successfully Launched ***
+
+Waiter ObjectExists failed: Max attempts exceeded
